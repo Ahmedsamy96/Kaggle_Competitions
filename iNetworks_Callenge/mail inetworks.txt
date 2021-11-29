@@ -1,0 +1,7 @@
+Dears ,
+i hope this mail finds you well...
+Regarding the required NLP task, I have created a detailed  colab notebook contains a documented code each cell is illustrated  , i tried to be clear as much as i can , so i hope my work meets your expectations .
+Note : About the part of deployment of the model , actually i still not good in this skill so this part is not completly finished for sorry .
+Here is the Colab link : https://colab.research.google.com/drive/1PDyT0M2zvBJQc0ItIjdnqFZI9AHGuoFL?usp=sharing
+And the downloaded file ( same content ) is also available if needed.
+Thanks in advance.
